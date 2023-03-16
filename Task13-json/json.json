@@ -1,0 +1,27 @@
+{  "animals":[
+   {"type" :"cat",
+  "name" : "myrzik",
+  "age": 2,
+  "breed":"yard",
+  "loves":"sausage"   
+   },
+   {"type" :"dog",
+  "name" : "tyzik",
+  "age": 3,
+  "breed":"yard",
+  "hobby": "throw the ball"   
+   }
+],
+"goods": 
+[
+{"type":"sausage",
+"weight":"1 kg",
+"taste":"salty"
+},
+{"type":"clothes",
+  "color":"red",
+  "size":"XL"
+}
+]
+}
+

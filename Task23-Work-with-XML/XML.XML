@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<department>
+	<developers>
+		<employee>
+			<id>1</id>
+			<Name>Tom</Name>
+			<LastName>Hardy</LastName>
+			<Gender>male</Gender>
+			<photo/>
+			<satary type='hourly' periodicity='twice a month'/>
+		</employee>
+		<employee>
+			<id>2</id>
+			<Name>Ryan</Name>
+			<LastName>Gosling</LastName>
+			<Gender>male</Gender>
+			<photo/>
+			<satary type='hourly' periodicity='once a month'/>
+		</employee>
+	</developers>
+	<managers>
+		<employee>
+			<id>3</id>
+			<Name>Harrison</Name>
+			<LastName>Ford</LastName>
+			<Gender>male</Gender>
+			<photo/>
+			<satary type='hourly' periodicity='once a month'/>
+		</employee>
+		<employee>
+			<id>4</id>
+			<Name>Sylvia</Name>
+			<LastName>Hoeks</LastName>
+			<Gender>female</Gender>
+			<photo/>
+			<satary type='hourly' periodicity='once a month'/>
+		</employee>
+	</managers>
+</department>
